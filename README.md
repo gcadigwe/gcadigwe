@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I am Godswill Adigwe!
+![Twitter Follow](https://img.shields.io/twitter/follow/adigwecodes?style=social)
+![GitHub followers](https://img.shields.io/github/followers/gcadigwe?style=social)
 
 <!--
 **gcadigwe/gcadigwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
