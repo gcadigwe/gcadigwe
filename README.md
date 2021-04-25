@@ -10,7 +10,7 @@ Looking forward to reaching and helping more people by sharing my knowledge. You
 
 🧰 Skills
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" height="50px" width="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="50px" width="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" height="50px" width="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50px" alt="git" height="50px">  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" height="50px" width="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="50px" width="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="50px" width="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" height="50px" width="50px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" width="50px" height="50px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="50px" alt="git" height="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="50px" width="50px"> 
 
 
 <!--
