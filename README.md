@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Godswill
 #### I am a software engineer
 
-<img src="https://imgur.com/a/5uMsLtn" alt="banner">
+<img src="https://media-exp1.licdn.com/dms/image/C4E16AQGZbguN8QVYfA/profile-displaybackgroundimage-shrink_200_800/0/1619875040406?e=1625097600&v=beta&t=WsGP4irVcWKXDADKfKqLqYKDbo09MRyuuIH__uIaofI" >
 
 I build projects to tinker with my brain and love teaching others how they are made, I love collaborating on projects and meeting new people.
 
