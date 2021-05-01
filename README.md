@@ -17,6 +17,10 @@ I build projects to tinker with my brain and love teaching others how they are m
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [What is software testing?](https://adigwecodes.hashnode.dev/software-testing-and-benefits-cko1wlp0p04q3egs172pmcbtg)
+- [Smart Contract Structure - Solidity for Beginners](https://adigwecodes.hashnode.dev/smart-contract-structure-solidity-for-beginners-cknry4s5e16qrlps14esr5759)
+- [Understanding Blockchain, Ethereum, Solidity and Smart Contracts](https://adigwecodes.hashnode.dev/understanding-blockchain-ethereum-solidity-and-smart-contracts-cknapn77d02y6h2s1ew6add46)
+- [first article](https://adigwecodes.hashnode.dev/first-article-ckm6somqq00umkhs13odi8ore)
 <!-- HASHNODE_BLOG:END -->
 
 
