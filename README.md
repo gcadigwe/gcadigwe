@@ -1,31 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >, I am Godswill Adigwe!
-![Twitter Follow](https://img.shields.io/twitter/follow/adigwecodes?style=social)
-![GitHub followers](https://img.shields.io/github/followers/gcadigwe?style=social)
+### Hi there 👋, my name is Godswill
+#### I am a software engineer
 
-A software Engineer specialized in fullstack/blockchain development, experience with the technology listed in the toolbox below. 
+<img src="https://imgur.com/a/5uMsLtn" alt="banner">
 
-I managed to create an online presence with my [blog](https://devsarzy.hashnode.dev), i create tech content mostly about blockchain development and fullstack web development. 
+I build projects to tinker with my brain and love teaching others how they are made, I love collaborating on projects and meeting new people.
 
-Looking forward to reaching and helping more people by sharing my knowledge. You can subscribe to blog's newsletter to stay up to date
+Skills: React / Nodejs / Express / Graphql / postgresql / MongoDB / Git / Solidity / Redux / JavaScript / Css / Html / Firebase
 
-🧰 Tech Stack
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://www.github.com/gcadigwe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](devsarzy.hashnode.dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/godswill-adigwe-858506209//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/twitter.com/adigwecodes)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](gcadigwe.github.io)  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" height="40px" width="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" height="40px" width="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40px" width="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40px" width="40px">  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" height="40px" width="40px"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" width="40px" alt="git" height="40px">  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" height="40px" width="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" height="40px" width="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgres" height="40px" width="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" height="40px" width="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" height="40px" width="40px">
-
-
-
-
-<!--
-**gcadigwe/gcadigwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
