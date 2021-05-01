@@ -1,9 +1,13 @@
-### Hi there 👋, my name is Godswill
-#### I am a software engineer
+# Godswill Adigwe
 
 <img src="https://github.com/gcadigwe/gcadigwe/blob/main/carbon%20(2).png" >
 
 I build projects to tinker with my brain and love teaching others how they are made, I love collaborating on projects and meeting new people.
+
+## Skills & Experience
+* 💻 - Nodejs, Solidity, GraphQl, SQL, MongoDB, Postgresql
+* 🌍 - Html, Css, Javascript
+* ⚛️ - React, Redux, Firebase, Git
 
 Skills: React / Nodejs / Express / Graphql / postgresql / MongoDB / Git / Solidity / Redux / JavaScript / Css / Html / Firebase
 
