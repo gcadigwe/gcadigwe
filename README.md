@@ -17,6 +17,7 @@ I build projects to tinker with my brain and love teaching others how they are m
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [5 React Tips and Best Practices To Make You A Better Developer](https://adigwecodes.hashnode.dev/5-react-tips-and-best-practices-to-make-you-a-better-developer-ckp6s10bn0ceomds13f1x0ivk)
 - [How to build custom hooks in React](https://adigwecodes.hashnode.dev/how-to-build-custom-hooks-in-react-ckonbyiuw0bh05cs1f3363dwg)
 - [How to write unit tests in Reactjs with Jest/React Testing Library](https://adigwecodes.hashnode.dev/how-to-write-unit-tests-in-reactjs-with-jestreact-testing-library-ckoddvi290c57fqs133andtdd)
 - [What is software testing?](https://adigwecodes.hashnode.dev/software-testing-and-benefits-cko1wlp0p04q3egs172pmcbtg)
